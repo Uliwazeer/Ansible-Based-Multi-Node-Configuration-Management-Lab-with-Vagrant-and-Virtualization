@@ -20,6 +20,8 @@ Command:
 ### 3.1 Option 1: Using Vagrant (Fast Automated Setup)
 You can build the 3 VMs with a single command. Each VM will be ready with a name and a specific role.
 
+### Link Video >>>>>>  Uploading Multi-Node Configuration Management Lab with Vagrant and Virtualization.mp4…
+
 ### 3.2 Option 2: Manual Setup with VMware
 You need to install Ubuntu three times and manually set up (Ansible + SSH).
 
